@@ -1,75 +1,86 @@
-# Nuxt Minimal Starter
+# Meshack K Kosgei - Portfolio
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+My personal portfolio website built with Nuxt.js, showcasing my projects, skills, and experience as a Computer Science student and Software Developer.
 
-## Setup
+## 🚀 Live Demo
 
-Make sure to install dependencies:
+[View Live Portfolio](https://portfolio-iannoo.vercel.app)
 
+## 🛠️ Tech Stack
+
+- **Framework:** [Nuxt.js](https://nuxt.com)
+- **State Management:** [Pinia](https://pinia.vuejs.org)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com)
+- **Deployment:** [Vercel](https://vercel.com)
+
+## 🏗️ Project Structure
+
+```
+portfolio/
+├── components/     # Vue components
+├── layouts/        # Page layouts
+├── pages/         # Application pages
+├── public/        # Static assets
+├── stores/        # Pinia stores
+└── server/        # Server-side code
+```
+
+## 🚦 Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
 ```bash
-# npm
+git clone https://github.com/Iannoo/portfolio.git
+cd portfolio
+```
+
+2. Install dependencies
+```bash
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
+3. Start development server
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
-
-Build the application for production:
-
+4. Build for production
 ```bash
-# npm
 npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
+## 🌟 Features
 
-```bash
-# npm
-npm run preview
+- Responsive design
+- Dark/Light mode
+- Project showcase
+- Blog section
+- Contact form
+- SEO optimized
+- Performance optimized
 
-# pnpm
-pnpm preview
+## 📝 License
 
-# yarn
-yarn preview
+This project is open source and available under the [MIT License](LICENSE).
 
-# bun
-bun run preview
-```
+## 👨‍💻 Author
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+**Meshack K Kosgei**
+- GitHub: [@Iannoo](https://github.com/Iannoo)
+- LinkedIn: [Meshack Kosgei](https://www.linkedin.com/in/meshack-kosgei-04103127a/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Iannoo/portfolio/issues).
+
+## 📫 Contact
+
+- Email: ianmesh2000@gmail.com
+- Phone: +254 740 269 748
+- Location: Eldoret, Kenya

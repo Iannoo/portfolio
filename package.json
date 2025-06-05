@@ -10,8 +10,12 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.7.23",
+    "@heroicons/vue": "^2.2.0",
+    "@nuxt/image": "^1.10.0",
     "@nuxtjs/tailwindcss": "^6.11.4",
     "@pinia/nuxt": "^0.11.0",
+    "@vueuse/core": "^13.3.0",
     "nuxt": "^3.10.3",
     "pinia": "^3.0.2",
     "sharp": "^0.34.2",
